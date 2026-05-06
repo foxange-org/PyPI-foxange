@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+src/foxange/__init__.py
+src/foxange/file.py
+src/foxange/input.py
+src/foxange/list_proce.py
+src/foxange/math.py
+src/foxange.egg-info/PKG-INFO
+src/foxange.egg-info/SOURCES.txt
+src/foxange.egg-info/dependency_links.txt
+src/foxange.egg-info/top_level.txt
+tests/test1.py
+tests/test2.py
